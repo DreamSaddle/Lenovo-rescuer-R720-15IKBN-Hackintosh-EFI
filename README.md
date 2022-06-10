@@ -1,6 +1,6 @@
 # 联想拯救者R720 15IKBN 黑苹果 EFI
 
-** 不再建议使用此 EFI，推荐使用 [支持 Monterey 版本](https://github.com/happylzyy/Hackintosh-Lenovo-R720)。使用前请查看对应 Issues 中的记录，可能会对你有所帮助。**
+**不再建议使用此 EFI，推荐使用 [支持 Monterey 版本](https://github.com/happylzyy/Hackintosh-Lenovo-R720)。使用前请查看对应 Issues 中的记录，可能会对你有所帮助。**
 
 ## 电脑配置信息
 
